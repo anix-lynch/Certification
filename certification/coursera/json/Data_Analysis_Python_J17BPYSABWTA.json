@@ -1,0 +1,28 @@
+{
+  "certificate_code": "J17BPYSABWTA",
+  "certificate_type": "Course",
+  "course_name": "Data Analysis with Python",
+  "provider": "IBM",
+  "completed_by": "Anix Lynch",
+  "completion_date": "2025",
+  
+  "what_you_learned": [
+    "Analyze real-world datasets through exploratory data analysis (EDA)",
+    "Use Pandas, NumPy, and SciPy to uncover patterns and insights",
+    "Perform data manipulation and cleaning",
+    "Create data visualizations"
+  ],
+  
+  "skills_gained": [
+    "Data Analysis",
+    "Python Programming",
+    "Pandas",
+    "NumPy",
+    "SciPy",
+    "Exploratory Data Analysis",
+    "Data Visualization"
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/verify/J17BPYSABWTA",
+  "certificate_image_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~J17BPYSABWTA/CERTIFICATE_LANDING_PAGE~J17BPYSABWTA.jpeg"
+}

@@ -1,0 +1,93 @@
+{
+  "certificate_code": "X1DE1MZIHH82",
+  "certificate_type": "Professional Certificate",
+  "course_name": "IBM Generative AI Engineering",
+  "provider": "IBM",
+  "completed_by": "Anix Lynch",
+  "completion_date": "December 11, 2025",
+  "duration": "Approximately 4 months at 10 hours a week to complete",
+  "total_courses": 16,
+  
+  "what_you_learned": [
+    "Develop essential knowledge and skills to perform tasks in an AI, gen AI, or NLP engineer role",
+    "Understand various generative AI architectures and LLMs for developing NLP-based systems",
+    "Master tokenization, data loaders, transformers, attention mechanisms, and prompt engineering",
+    "Use PyTorch and Hugging Face Transformers library to develop RAG applications",
+    "Fine-tune transformers and work with GPT and BERT models"
+  ],
+  
+  "skills_gained": [
+    "Generative AI",
+    "Natural Language Processing (NLP)",
+    "Large Language Models (LLMs)",
+    "Transformers",
+    "PyTorch",
+    "Hugging Face",
+    "RAG Applications",
+    "Prompt Engineering",
+    "Fine-tuning",
+    "GPT",
+    "BERT",
+    "Python Programming",
+    "Deep Learning",
+    "Neural Networks"
+  ],
+  
+  "course_certificates": [
+    {
+      "course_name": "Introduction to Artificial Intelligence (AI)",
+      "provider": "IBM"
+    },
+    {
+      "course_name": "Generative AI: Introduction and Applications",
+      "provider": "IBM"
+    },
+    {
+      "course_name": "Generative AI: Prompt Engineering Basics",
+      "provider": "IBM"
+    },
+    {
+      "course_name": "Python for Data Science, AI & Development",
+      "provider": "IBM"
+    },
+    {
+      "course_name": "Developing AI Applications with Python and Flask",
+      "provider": "IBM"
+    },
+    {
+      "course_name": "Building Generative AI-Powered Applications with Python",
+      "provider": "IBM"
+    },
+    {
+      "course_name": "Data Analysis with Python",
+      "provider": "IBM"
+    },
+    {
+      "course_name": "Machine Learning with Python",
+      "provider": "IBM"
+    },
+    {
+      "course_name": "Introduction to Deep Learning & Neural Networks with Keras",
+      "provider": "IBM"
+    },
+    {
+      "course_name": "Generative AI and LLMs: Architecture and Data Preparation",
+      "provider": "IBM"
+    },
+    {
+      "course_name": "Gen AI Foundational Models for NLP & Language Understanding",
+      "provider": "IBM"
+    },
+    {
+      "course_name": "Generative AI Language Modeling with Transformers",
+      "provider": "IBM"
+    },
+    {
+      "course_name": "Generative AI Engineering and Fine-Tuning Transformers",
+      "provider": "IBM"
+    }
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/professional-cert/X1DE1MZIHH82",
+  "certificate_image_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~X1DE1MZIHH82/CERTIFICATE_LANDING_PAGE~X1DE1MZIHH82.jpeg"
+}

@@ -1,0 +1,30 @@
+{
+  "certificate_code": "UM3M63UAPC2D",
+  "certificate_type": "Professional Certificate",
+  "course_name": "IBM AI Developer",
+  "provider": "IBM",
+  "completed_by": "Anix Lynch",
+  "completion_date": "November 28, 2025",
+  "duration": "Approximately 3 months at 10 hours a week to complete",
+  
+  "what_you_learned": [
+    "Build web applications and generative AI applications using Python and Flask",
+    "Develop AI-powered applications with IBM Watson AI services",
+    "Create chatbots and virtual assistants using natural language processing",
+    "Deploy AI applications to production environments"
+  ],
+  
+  "skills_gained": [
+    "Python Programming",
+    "Flask Framework",
+    "Generative AI",
+    "IBM Watson",
+    "Natural Language Processing",
+    "AI Application Development",
+    "RESTful APIs",
+    "Cloud Deployment"
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/professional-cert/UM3M63UAPC2D",
+  "certificate_image_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UM3M63UAPC2D/CERTIFICATE_LANDING_PAGE~UM3M63UAPC2D.jpeg"
+}

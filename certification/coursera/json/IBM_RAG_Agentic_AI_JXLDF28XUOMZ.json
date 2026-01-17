@@ -1,0 +1,30 @@
+{
+  "certificate_code": "JXLDF28XUOMZ",
+  "certificate_type": "Professional Certificate",
+  "course_name": "IBM RAG and Agentic AI",
+  "provider": "IBM",
+  "completed_by": "Anix Lynch",
+  "completion_date": "December 2025",
+  "duration": "Approximately 2 months at 10 hours a week to complete",
+  
+  "what_you_learned": [
+    "Build Retrieval-Augmented Generation (RAG) applications",
+    "Develop agentic AI systems with autonomous decision-making capabilities",
+    "Implement vector databases for semantic search",
+    "Create AI agents using LangChain and other frameworks"
+  ],
+  
+  "skills_gained": [
+    "Retrieval-Augmented Generation (RAG)",
+    "Agentic AI",
+    "Vector Databases",
+    "LangChain",
+    "Semantic Search",
+    "AI Agents",
+    "Large Language Models",
+    "Python Programming"
+  ],
+  
+  "certificate_url": "https://www.coursera.org/account/accomplishments/professional-cert/JXLDF28XUOMZ",
+  "certificate_image_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JXLDF28XUOMZ/CERTIFICATE_LANDING_PAGE~JXLDF28XUOMZ.jpeg"
+}
