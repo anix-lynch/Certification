@@ -79,8 +79,8 @@ Years of Certification
 - 2025: Meta Data Analytics, IBM GenAI
 - 2024: Python Data Science, EDA, Supervised ML
 - 2012: Certified Scrum Master
-- Academic: BA (2008), MBA (2015)
+- Academic: BA (2001), MBA (2012)
 
 ---
 
-Continuous learning enables continuous growth
+version upgrading myself.. everyday! 😀😭🎉
