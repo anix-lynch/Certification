@@ -26,6 +26,4 @@ Diploma_jpg/                 — MBA, BA
 Language_jpg/                — JLPT, TOEIC
 ```
 
-## Tagline
-
-Version upgrading myself.. everyday 😀😭🎉
+Professional development and certifications portfolio.
