@@ -1,0 +1,127 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+terraform.tfvars
+*.auto.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+apply.log
+plan.log
+crash.log
+crash.*.log
+
+# Sensitive files
+*.pem
+*.key
+*.cert
+*.crt
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.truststore
+
+# Environment files
+.env
+.env.local
+.env.*.local
+*.env
+
+# AWS credentials
+.aws/credentials
+.aws/config
+credentials
+config
+
+# Secrets
+secrets.yaml
+secrets.yml
+secrets.json
+*secret*
+*password*
+*token*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+*.log
+logs/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Zip files (optional - uncomment if you don't want to track zips)
+# *.zip
+
+# Lambda deployment packages
+lambda.zip
+*.zip
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+src/env
+src/env
+module2/week3/src/env
+.venv/
+__pycache__/
+*.pyc
+.venv/
+module3/week1/.venv/
+
+# Personal workflow files
+.cursorrules
+COURSERA_WORKFLOW.md
+
+# Secrets and API keys
+*access_token*
+*ACCESS_TOKEN*
+*api_key*
+*API_KEY*
+*client_secret*
+*CLIENT_SECRET*
+*secret*
+*SECRET*
+# Spotify tokens pattern
+*BQD*
+*BQC*
+module2/week3/gx/uncommitted/config_variables.yml
+gx/uncommitted/

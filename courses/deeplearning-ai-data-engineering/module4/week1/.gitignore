@@ -1,0 +1,13 @@
+*.tfstate*
+*.log
+.terraform/
+*.env
+*secret*
+*password*
+*credentials*
+.aws/
+*.pem
+*.key
+.ipynb_checkpoints
+__pycache__/
+.DS_Store
