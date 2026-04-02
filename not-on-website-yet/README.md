@@ -1,7 +1,8 @@
 # Not on website yet
 
-Drop **PDFs, PNGs, or scans** here when they are earned but **not** yet linked from [gozeroshot.dev/certifications](https://gozeroshot.dev/certifications).
+Coursera PDFs and notes that are **in this repo** but **not** linked from [gozeroshot.dev/certifications](https://gozeroshot.dev/certifications).
 
-When you promote a cert to the gallery, move or copy files into the existing showroom paths (e.g. `certification/coursera/pdf/`) and add entries in `www.gozeroshot.dev` → `src/pages/certifications.astro`.
+- **`coursera-pdf/`** — certificate PDFs backlog (moved out of `certification/coursera/pdf/` until promoted).
+- **`NOT_DEPLOYED.md`** — manifest + how to promote.
 
-This folder is intentionally separate so you can see **backlog vs deployed** at a glance.
+When you add a cert to the gallery, move files into `certification/coursera/pdf/` (and `jpg/`), update [`certifications.astro`](https://github.com/anix-lynch/www.gozeroshot.dev/blob/main/src/pages/certifications.astro), and remove from here.
