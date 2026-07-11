@@ -14,6 +14,7 @@ Single **public** store for credentials and course work. **Live on the website**
 8. Data Storage and Queries (DeepLearning.AI)
 9. Gen AI: Beyond the Chatbot (Google Cloud)
 10. Meta Data Analyst
+11. HubSpot Revenue Operations (valid Mar 2026 – Apr 2027)
 
 Academic (BA 2001, MBA 2012), Agile, Language. Full inventory in repo.
 
