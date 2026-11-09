@@ -5,14 +5,14 @@ Gallery: [gozeroshot.dev/certifications](https://gozeroshot.dev/certifications)
 
 ## Professional certificates
 
-| Credential | Issuer | Issued | Verify | File |
-|---|---|---|---|---|
-| IBM Generative AI Engineering (16 courses) | IBM · Coursera | Dec 2025 | [verify](https://www.coursera.org/account/accomplishments/professional-cert/X1DE1MZIHH82) | [PDF](not-on-website-yet/coursera-pdf/IBM_Generative_AI_Engineering_X1DE1MZIHH82.pdf) |
-| IBM RAG and Agentic AI (8 courses) | IBM · Coursera | Dec 2025 | [verify](https://www.coursera.org/account/accomplishments/professional-cert/JXLDF28XUOMZ) | [PDF](not-on-website-yet/coursera-pdf/IBM_RAG_Agentic_AI_JXLDF28XUOMZ.pdf) |
-| IBM AI Developer (10 courses) | IBM · Coursera | Dec 2025 | [verify](https://www.coursera.org/account/accomplishments/professional-cert/UM3M63UAPC2D) | [PDF](not-on-website-yet/coursera-pdf/IBM_AI_Developer_UM3M63UAPC2D.pdf) |
-| Meta Data Analyst (5 courses) | Meta · Coursera | Jul 2025 | [verify](https://www.coursera.org/account/accomplishments/professional-cert/J2IM7FBE1LDE) | [PDF](certification/coursera/pdf/Meta_Data_Analyst_J2IM7FBE1LDE.pdf) |
-| HubSpot Revenue Operations Certified | HubSpot Academy | Valid Mar 2026 – Apr 2027 | — | [image](other_jpg/HubSpot_RevOps_Certificate.png) |
-| Certified ScrumMaster (CSM) | Scrum Alliance | 2012 | — | [PDF](certification/other/ScrumAlliance_CSM_Certificate.pdf) |
+| Credential | Issuer | Issued | Credential ID | Verify | File |
+|---|---|---|---|---|---|
+| IBM Generative AI Engineering Professional Certificate (16 courses) | IBM · Coursera | 2025-12-11 | `X1DE1MZIHH82` | [verify](https://www.coursera.org/account/accomplishments/specialization/X1DE1MZIHH82) | [PDF](certification/coursera/pdf/IBM_Generative_AI_Engineering_X1DE1MZIHH82.pdf) |
+| IBM AI Developer Professional Certificate (10 courses) | IBM · Coursera | 2025-12-09 | `UM3M63UAPC2D` | [verify](https://www.coursera.org/account/accomplishments/specialization/UM3M63UAPC2D) | [PDF](certification/coursera/pdf/IBM_AI_Developer_UM3M63UAPC2D.pdf) |
+| IBM RAG and Agentic AI Professional Certificate (8 courses) | IBM · Coursera | 2025-12-02 | `JXLDF28XUOMZ` | [verify](https://www.coursera.org/account/accomplishments/specialization/JXLDF28XUOMZ) | [PDF](certification/coursera/pdf/IBM_RAG_Agentic_AI_JXLDF28XUOMZ.pdf) |
+| Meta Data Analyst Professional Certificate (5 courses) | Meta · Coursera | 2025-07-13 | `J2IM7FBE1LDE` | [verify](https://www.coursera.org/account/accomplishments/specialization/J2IM7FBE1LDE) | [PDF](certification/coursera/pdf/Meta_Data_Analyst_J2IM7FBE1LDE.pdf) |
+| HubSpot Revenue Operations Certified | HubSpot Academy | Valid Mar 2026 – Apr 2027 | — | — | [image](other_jpg/HubSpot_RevOps_Certificate.png) |
+| Certified ScrumMaster (CSM) | Scrum Alliance | 2012 | — | — | [PDF](certification/other/ScrumAlliance_CSM_Certificate.pdf) |
 
 ## Education & language
 
@@ -24,22 +24,24 @@ Gallery: [gozeroshot.dev/certifications](https://gozeroshot.dev/certifications)
 | TOEIC 930 | ETS | [PDF](Language/TOEIC_930_2008.pdf) |
 
 <details>
-<summary>Individual courses outside the programs above (9)</summary>
+<summary>Individual courses outside the 4 completed Coursera specializations above (11)</summary>
 
-| Course | Issuer | Verify |
-|---|---|---|
-| Introduction to Data Engineering | DeepLearning.AI · AWS | [verify](https://coursera.org/verify/GWX3QS92P70L) |
-| Source Systems, Data Ingestion, and Pipelines | DeepLearning.AI · AWS | [verify](https://coursera.org/verify/3MC66A483U9W) |
-| Data Storage and Queries | DeepLearning.AI · AWS | [verify](https://coursera.org/verify/L06K8YPOIX1H) |
-| Gen AI: Beyond the Chatbot | Google Cloud | [verify](https://coursera.org/verify/96L5FP602DG2) |
-| Ask Questions to Make Data-Driven Decisions | Google | [verify](https://www.coursera.org/account/accomplishments/verify/UTYWUATZ8NE2) |
-| Introduction to Data Analytics | IBM | [verify](https://www.coursera.org/account/accomplishments/verify/SMHSUP57JXRV) |
-| Excel Basics for Data Analysis | IBM | [verify](https://www.coursera.org/account/accomplishments/verify/2Y5NRH4XNH28) |
-| Supervised Machine Learning: Regression | IBM | [verify](https://www.coursera.org/account/accomplishments/verify/X4URDQVFVWTC) |
-| Exploratory Data Analysis for Machine Learning | IBM | [verify](https://www.coursera.org/account/accomplishments/verify/3K9PDNHUE9YQ) |
+| Course | Issuer | Issued | Credential ID | Verify |
+|---|---|---|---|---|
+| Data Storage and Queries | DeepLearning.AI • Amazon Web Services | 2026-01-16 | `L06K8YPOIX1H` | [verify](https://www.coursera.org/account/accomplishments/verify/L06K8YPOIX1H) |
+| Source Systems, Data Ingestion, and Pipelines | DeepLearning.AI • Amazon Web Services | 2026-01-16 | `3MC66A483U9W` | [verify](https://www.coursera.org/account/accomplishments/verify/3MC66A483U9W) |
+| Introduction to Data Engineering | DeepLearning.AI • Amazon Web Services | 2025-11-28 | `GWX3QS92P70L` | [verify](https://www.coursera.org/account/accomplishments/verify/GWX3QS92P70L) |
+| Prepare Data for Exploration | Google | 2025-11-30 | `H5ZN2R0QY9XE` | [verify](https://www.coursera.org/account/accomplishments/verify/H5ZN2R0QY9XE) |
+| Gen AI: Beyond the Chatbot | Google Cloud | 2025-11-27 | `96L5FP602DG2` | [verify](https://www.coursera.org/account/accomplishments/verify/96L5FP602DG2) |
+| Supervised Machine Learning: Regression | IBM | 2024-07-30 | `X4URDQVFVWTC` | [verify](https://www.coursera.org/account/accomplishments/verify/X4URDQVFVWTC) |
+| Ask Questions to Make Data-Driven Decisions | Google | 2024-07-19 | `UTYWUATZ8NE2` | [verify](https://www.coursera.org/account/accomplishments/verify/UTYWUATZ8NE2) |
+| Foundations: Data, Data, Everywhere | Google | 2024-07-19 | `KYJQWUUBYFT4` | [verify](https://www.coursera.org/account/accomplishments/verify/KYJQWUUBYFT4) |
+| Exploratory Data Analysis for Machine Learning | IBM | 2024-07-17 | `3K9PDNHUE9YQ` | [verify](https://www.coursera.org/account/accomplishments/verify/3K9PDNHUE9YQ) |
+| Excel for Data Analysis: Essential Skills & Techniques | IBM | 2023-08-25 | `2Y5NRH4XNH28` | [verify](https://www.coursera.org/account/accomplishments/verify/2Y5NRH4XNH28) |
+| Data Analytics Foundations: Turn Data into Insights | IBM | 2023-02-27 | `SMHSUP57JXRV` | [verify](https://www.coursera.org/account/accomplishments/verify/SMHSUP57JXRV) |
 
 Coursework for the DeepLearning.AI courses: [`courses/deeplearning-ai-data-engineering/`](courses/deeplearning-ai-data-engineering/).
-Courses that belong to a program above are listed inside that program's certificate, not here.
-Full Coursera inventory: [`docs/coursera-accomplishments.md`](docs/coursera-accomplishments.md).
+Courses that belong to a program above are listed inside that program's certificate and in the full inventory below.
+Full Coursera inventory (all 48 unique certificates — 4 specializations + 44 courses): [`docs/coursera-accomplishments.md`](docs/coursera-accomplishments.md) · [`docs/coursera_certificates_48.csv`](docs/coursera_certificates_48.csv).
 
 </details>
